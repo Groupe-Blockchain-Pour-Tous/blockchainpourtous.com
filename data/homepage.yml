@@ -1,0 +1,143 @@
+################################ Banner ##############################
+banner:
+  enable : true
+  subtitle : "Blockchain Pour Tous"
+  title : "L'innovation au coeur <br> de la blockchain"
+  content : "Tendances, analyses et revues de la blockchain, l'innovation technologique et son impact sur notre quotidien."
+  button:
+    enable : false
+    label : "Donate Now"
+    link : "donation"
+
+############################# Intro ##################################
+intro:
+  enable: true
+  subtitle : "Votre journée avec nous"
+  title : "S'unir pour apprendre et progresser <br> ensemble"
+  content : "**Blockchain Pour Tous** se veut être une plateforme indépendante de tendances, 
+          d’analyses, de revues de la blockchain et son impact sur notre quotidien. 
+          La plateforme cible principalement une audience francophone.
+           Il s’agit d’enrichir le paysage francophone avec **l’innovation apportée par 
+           la technologie blockchain**"
+  introItem:
+    # intro item loop
+    - title : "Des conférences tech."
+      image : "images/about/image-1.jpg"
+      content : "Organisation de conférences sur le web 3.0, la nft, la crypto."
+      
+    # intro item loop
+    - title : "Réseauter et rencontrer"
+      image : "images/about/image-2.jpg"
+      content : "Profiter de nos rencontres pour élargir votre réseau."
+      
+    # intro item loop
+    - title : "Devenir conférencier"
+      image : "images/about/image-3.jpg"
+      content : "Proposez nous un sujet en tant que conférencier."
+      
+    # intro item loop
+    - title : "Devenir partenaire"
+      image : "images/about/image-4.jpg"
+      content : "Rejoignez notre liste de sponsors et partenaires."
+
+################################# Video ###############################
+video:
+  enable : false
+  title : "We Make a Difference <br>in their Life"
+  videoThumb : "images/bg/bg-3.jpg"
+  video: "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  
+################################# funfacts ###############################
+funfacts:
+  enable : false
+  funItem:
+    # funfacts item loop
+    - title : "Years of Experience"
+      count: "18"
+      
+    # funfacts item loop
+    - title : " Volunteer"
+      count: "1460"
+      
+    # funfacts item loop
+    - title : "Availble Country"
+      count: "92"
+      
+    # funfacts item loop
+    - title : "Million People Helped"
+      count: "54"
+
+############################ gallery ###################################
+gallery:
+  enable : false
+  subtitle : "Our Gallery"
+  title : "We connect with people across different sectors. we take risksand we always keep learning."
+  galleryItems:
+    - image : "images/gallery/1.jpg"
+    - image : "images/gallery/2.jpg"
+    - image : "images/gallery/3.jpg"
+    - image : "images/gallery/4.jpg"
+    - image : "images/gallery/5.jpg"
+    - image : "images/gallery/6.jpg"
+    - image : "images/gallery/7.jpg"
+    - image : "images/gallery/8.jpg"
+    - image : "images/gallery/9.jpg"
+
+########################## latest causes ################################
+causes:
+  enable : false
+  subtitle : "Latest Cuases"
+  title : "Our Recent Causes to serve better"
+  content : "We provide services in the area of IFRS and management reporting, helping companies to reach
+            their highest level."
+  # causes item comes from "content/event" folder
+
+######################## call to action ###################################
+cta:
+  enable : true
+  title : "Envie d'être conférencier à notre prochaine conférence ?"
+  button:
+    enable : true
+    label : "Proposer un sujet sur la blockchain"
+    #link : "donation"
+
+############################# Latest Blog ###############################
+blog:
+  enable : false
+  subtitle : ""
+  title : ""
+  content : ""
+  # blog item comes from "content/blog" folder
+
+################################# Volunteer ##############################
+volunteer:
+  enable : true
+  image : "images/bg/image-5.jpg"
+  title : "Blockchain pour Tous, vraiment pour tous !"
+  content : "Avec cette plateforme, l'idée est de progresser ensemble."
+  partners:
+    enable : true
+    title : "Nos partenaires et conférenciers"
+    partner:
+      # partner loop
+      - logo : "images/clients/client1.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client2.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client4.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client5.png"
+        link : "#"
+  
+  # form
+  form:
+    subtitle : "Nous rejoindre"
+    title : "Devenir partenaire ou sponsor"
+    formAction : "#" # form works with formspree.io
+    
