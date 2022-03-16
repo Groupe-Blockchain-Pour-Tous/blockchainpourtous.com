@@ -103,7 +103,7 @@ cta:
 
 ############################# Latest Blog ###############################
 blog:
-  enable : false
+  enable : true
   subtitle : ""
   title : ""
   content : ""

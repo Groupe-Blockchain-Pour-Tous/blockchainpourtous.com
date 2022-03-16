@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://blockchainpourtous.com/"
+baseURL = "https://blockchainpourtous.com"
 languageCode = "fr-FR"
 title = "Blockchain Pour Tous"
 theme = "wishfund-hugo"
@@ -50,10 +50,10 @@ paginate = 6
  # URL = "about"
  # weight = 2
   
- # [[menu.main]]
- # name = "Blog"
- # URL = "blog"
- # weight = 3
+ [[menu.main]]
+   name = "Blog"
+   URL = "blog"
+   weight = 3
   
  # [[menu.main]]
  # name = "Causes"
