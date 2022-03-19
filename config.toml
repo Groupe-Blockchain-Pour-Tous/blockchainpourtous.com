@@ -125,7 +125,7 @@ mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
 # Google Analitycs
-googleAnalitycsID = "G-2992XG9KW9"
+googleAnalitycsID = "UA-221230015-1"
 
   # Preloader
   [params.preloader]
