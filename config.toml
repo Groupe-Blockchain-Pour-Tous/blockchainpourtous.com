@@ -111,6 +111,7 @@ enableRobotsTXT = true # generate robots.txt
 
 [params]
 logo = "images/logo2.png"
+favicon = "images/favicon.png"
 home = "Accueil"
 # Contact Information
 # phone = "012548722120"
