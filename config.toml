@@ -5,6 +5,7 @@ title = "Blockchain Pour Tous"
 theme = "wishfund-hugo"
 summaryLength = "10"
 paginate = 6
+enableRobotsTXT = true # generate robots.txt
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
