@@ -1,7 +1,7 @@
 ---
 title: "Education for Childrens"
 date: 2019-09-25T11:28:32+06:00
-draft: false
+draft: true
 description : "this is a meta description"
 bgImage: "images/bg/bg-3.jpg"
 image: "images/about/image-1.jpg"
