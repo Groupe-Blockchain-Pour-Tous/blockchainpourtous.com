@@ -99,7 +99,7 @@ cta:
   button:
     enable : true
     label : "Proposer un sujet sur la blockchain"
-    #link : "donation"
+    link : "https://forms.gle/8ETeZfr1wLKCUynZ9"
 
 ############################# Latest Blog ###############################
 blog:
