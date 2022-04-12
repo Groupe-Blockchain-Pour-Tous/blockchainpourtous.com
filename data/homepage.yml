@@ -12,7 +12,7 @@ banner:
 ############################# Intro ##################################
 intro:
   enable: true
-  subtitle : "Votre journée avec nous"
+  subtitle : "Votre aventure avec nous"
   title : "S'unir pour apprendre et progresser <br> ensemble"
   content : "**Blockchain Pour Tous** se veut être une plateforme indépendante de tendances, 
           d’analyses, de revues de la blockchain et son impact sur notre quotidien. 
