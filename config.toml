@@ -50,7 +50,7 @@ enableRobotsTXT = true # generate robots.txt
  # name = "About"
  # URL = "about"
  # weight = 2
-  
+
  [[menu.main]]
    name = "Blog"
    URL = "blog"
